@@ -22,8 +22,8 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /STATUSVEDI
   logoUrl: https://vedi.cordoba.gob.ar/VeDiPortal/static/media/vediDrawer.27e91504.png
-  name: STATUSVEDI
-  introTitle: "**STATUSVEDI** Monitor de uptime y status page."
+  name: STATUS-VEDI
+  introTitle: "**STATUS-VEDI** Monitor de uptime y status page."
   introMessage: En caso de caida o degradación de servicio informara automaticamente a Soporte VEDI
   navbar:
     - title: Status
