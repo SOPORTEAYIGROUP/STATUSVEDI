@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vedi.stage.cordoba.gob.ar.ico",
     "slug": "vedi-stage",
     "status": "up",
-    "uptime": "2.79%",
-    "uptimeDay": "2.79%",
-    "uptimeWeek": "2.79%",
-    "uptimeMonth": "2.79%",
-    "uptimeYear": "2.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 348,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {
-      "2023-09-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VEDI TEST",
