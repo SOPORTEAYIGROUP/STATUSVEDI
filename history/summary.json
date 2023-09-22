@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 581,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 511,
+    "timeDay": 511,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://vedi.stage.cordoba.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/vedi.stage.cordoba.gob.ar.ico",
     "slug": "vedi-stage",
-    "status": "down",
-    "uptime": "2.98%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "2.98%",
-    "uptimeMonth": "2.98%",
-    "uptimeYear": "2.98%",
-    "time": 493,
-    "timeDay": 493,
-    "timeWeek": 493,
-    "timeMonth": 493,
-    "timeYear": 493,
+    "status": "up",
+    "uptime": "2.79%",
+    "uptimeDay": "2.79%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
+    "time": 348,
+    "timeDay": 348,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2023-09-22": 0
+      "2023-09-22": 5
     }
   },
   {
@@ -42,19 +42,17 @@
     "url": "https://vedi.test.cordoba.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/vedi.test.cordoba.gob.ar.ico",
     "slug": "vedi-test",
-    "status": "down",
-    "uptime": "4.93%",
-    "uptimeDay": "4.93%",
-    "uptimeWeek": "4.93%",
-    "uptimeMonth": "4.93%",
-    "uptimeYear": "4.93%",
-    "time": 329,
-    "timeDay": 329,
-    "timeWeek": 329,
-    "timeMonth": 329,
-    "timeYear": 329,
-    "dailyMinutesDown": {
-      "2023-09-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 343,
+    "timeDay": 343,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
+    "dailyMinutesDown": {}
   }
 ]
