@@ -9,10 +9,12 @@ sites:
     url: https://vedi.stage.cordoba.gob.ar/
   - name: VEDI TEST
     url: https://vedi.test.cordoba.gob.ar/
+  - name: VEDI DEV
+    url: https://vedi.dev.cordoba.gob.ar/  
  
     
 assignees:
-  - SOPORTEAYIGROUP
+  - SOPORTEVEDI
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
