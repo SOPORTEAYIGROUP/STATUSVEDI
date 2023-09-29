@@ -11,6 +11,8 @@ sites:
     url: https://vedi.test.cordoba.gob.ar/
   - name: VEDI DEV
     url: https://vedi.dev.cordoba.gob.ar/
+  - name: GOOGLE
+    url: https://www.google.com.ar/
 
 
 assignees:
