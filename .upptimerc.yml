@@ -11,14 +11,8 @@ sites:
     url: https://vedi.test.cordoba.gob.ar/
   - name: VEDI DEV
     url: https://vedi.dev.cordoba.gob.ar/
-  - name: CIDI PROD
-    url: https://cidi.cba.gov.ar/
-  - name: CIDI TEST V2
-    url: https://cidiv2.test.cba.gov.ar/
-  - name: CIDI TEST V1
-    url: https://cidi.test.cba.gov.ar/
- 
-    
+
+
 assignees:
   - SOPORTEVEDI
 
