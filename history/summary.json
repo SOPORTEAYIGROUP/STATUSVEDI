@@ -22,19 +22,19 @@
     "url": "https://vedi.stage.cordoba.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/vedi.stage.cordoba.gob.ar.ico",
     "slug": "vedi-stage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 272,
-    "timeWeek": 320,
-    "timeMonth": 309,
-    "timeYear": 308,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 307,
+    "timeDay": 271,
+    "timeWeek": 316,
+    "timeMonth": 308,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-11-05": 0
+      "2023-11-05": 12
     }
   },
   {
