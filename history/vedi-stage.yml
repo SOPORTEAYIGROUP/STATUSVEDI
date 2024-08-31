@@ -1,7 +1,7 @@
 url: https://vedi.stage.cordoba.gob.ar/
-status: down
-code: 503
-responseTime: 240
-lastUpdated: 2024-08-31T02:56:02.670Z
+status: up
+code: 200
+responseTime: 361
+lastUpdated: 2024-08-31T03:21:44.294Z
 startTime: 2023-09-22T13:44:42.355Z
 generator: Upptime <https://github.com/upptime/upptime>
