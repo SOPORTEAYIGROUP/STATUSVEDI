@@ -1,7 +1,7 @@
 url: https://vedi.test.cordoba.gob.ar/
-status: down
-code: 503
-responseTime: 151
-lastUpdated: 2024-09-15T10:44:38.186Z
+status: up
+code: 200
+responseTime: 213
+lastUpdated: 2024-09-15T10:56:23.356Z
 startTime: 2023-09-22T13:44:45.809Z
 generator: Upptime <https://github.com/upptime/upptime>
