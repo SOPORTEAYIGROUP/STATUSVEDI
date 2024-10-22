@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 657,
-    "timeWeek": 362,
-    "timeMonth": 392,
-    "timeYear": 337,
+    "timeDay": 660,
+    "timeWeek": 432,
+    "timeMonth": 403,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.79%",
     "time": 361,
-    "timeDay": 609,
-    "timeWeek": 409,
-    "timeMonth": 373,
+    "timeDay": 372,
+    "timeWeek": 420,
+    "timeMonth": 371,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-10-21": 24,
@@ -69,17 +69,16 @@
     "slug": "vedi-test",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "97.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "97.20%",
     "uptimeYear": "99.49%",
     "time": 357,
-    "timeDay": 744,
-    "timeWeek": 385,
-    "timeMonth": 387,
-    "timeYear": 358,
+    "timeDay": 488,
+    "timeWeek": 390,
+    "timeMonth": 386,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-10-21": 12,
       "2024-10-15": 141,
       "2024-10-08": 25,
       "2024-10-07": 101,
@@ -113,8 +112,7 @@
       "2023-12-10": 38,
       "2023-11-17": 38,
       "2023-11-06": 19,
-      "2023-10-30": 16,
-      "2023-10-23": 98
+      "2023-10-30": 16
     }
   },
   {
@@ -129,10 +127,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.56%",
     "time": 345,
-    "timeDay": 934,
-    "timeWeek": 423,
-    "timeMonth": 363,
-    "timeYear": 346,
+    "timeDay": 296,
+    "timeWeek": 422,
+    "timeMonth": 366,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2024-09-30": 26,
       "2024-09-26": 29,
@@ -180,8 +178,7 @@
       "2023-11-15": 24,
       "2023-11-14": 38,
       "2023-11-12": 36,
-      "2023-11-11": 25,
-      "2023-10-23": 26
+      "2023-11-11": 25
     }
   },
   {
@@ -195,10 +192,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 191,
-    "timeDay": 377,
-    "timeWeek": 220,
-    "timeMonth": 184,
+    "time": 190,
+    "timeDay": 100,
+    "timeWeek": 206,
+    "timeMonth": 181,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2024-06-24": 39,
