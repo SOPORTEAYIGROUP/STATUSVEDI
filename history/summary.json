@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 363,
+    "timeDay": 437,
     "timeWeek": 341,
     "timeMonth": 364,
     "timeYear": 325,
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.80%",
     "time": 365,
-    "timeDay": 385,
+    "timeDay": 419,
     "timeWeek": 410,
-    "timeMonth": 410,
+    "timeMonth": 412,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2024-11-11": 26,
@@ -58,8 +58,7 @@
       "2023-12-10": 42,
       "2023-12-08": 22,
       "2023-12-05": 23,
-      "2023-12-03": 19,
-      "2023-11-19": 18
+      "2023-12-03": 19
     }
   },
   {
@@ -74,7 +73,7 @@
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.42%",
     "time": 356,
-    "timeDay": 370,
+    "timeDay": 375,
     "timeWeek": 354,
     "timeMonth": 364,
     "timeYear": 350,
@@ -121,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vedi.dev.cordoba.gob.ar.ico",
     "slug": "vedi-dev",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.59%",
     "time": 348,
-    "timeDay": 442,
+    "timeDay": 485,
     "timeWeek": 338,
-    "timeMonth": 424,
+    "timeMonth": 426,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2024-11-17": 18,
@@ -175,8 +174,7 @@
       "2023-12-09": 17,
       "2023-12-04": 18,
       "2023-12-03": 40,
-      "2023-11-25": 34,
-      "2023-11-19": 17
+      "2023-11-25": 34
     }
   },
   {
@@ -191,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 190,
+    "timeDay": 214,
     "timeWeek": 195,
-    "timeMonth": 187,
+    "timeMonth": 188,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2024-06-24": 39,
