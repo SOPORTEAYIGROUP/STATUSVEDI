@@ -63,16 +63,16 @@
     "url": "https://vedi.test.cordoba.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/vedi.test.cordoba.gob.ar.ico",
     "slug": "vedi-test",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "91.67%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "91.66%",
     "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "99.40%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.41%",
     "time": 356,
-    "timeDay": 348,
-    "timeWeek": 312,
-    "timeMonth": 343,
+    "timeDay": 378,
+    "timeWeek": 330,
+    "timeMonth": 344,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2024-12-14": 102,
@@ -108,8 +108,7 @@
       "2024-09-14": 195,
       "2024-09-11": 47,
       "2024-09-10": 18,
-      "2024-08-23": 30,
-      "2024-07-24": 21
+      "2024-08-23": 30
     }
   },
   {
